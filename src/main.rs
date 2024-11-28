@@ -8,6 +8,7 @@ fn main() {
      "ışıl@58.com".to_string(), "Işıl123".to_string(),&mut database);
 
      login("ışıl@58.com".to_string(), "Işıl1234".to_string(), &mut database);
+     let sayi=1;
 
 }
 
